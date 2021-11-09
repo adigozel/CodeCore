@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "laVLR4P/geuRt+KOT776aH+UPZQ66F9+yWj3DzOUjI1SfgeH9Q0iaYUrIUm5UJAsN1KMLxPhT7W42cg56Gc/Ow==",
+  "success": true,
+  "projectFilePath": "D:\\NEW_STRUCTURE\\Projects\\MyNewProjects\\CodeCore\\src\\AppBuilder\\Pipline\\Pipline.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abulfaz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

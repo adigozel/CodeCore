@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6bsVXXK+ge4T+qe2RWyYbRSb86h0ml6BhcLOSdYO3kgA8NI99wSyjsun6mfyt6phlGTAycwMF7qQJa6mKBftaA==",
+  "success": true,
+  "projectFilePath": "D:\\NEW_STRUCTURE\\Projects\\MyNewProjects\\CodeCore\\src\\AppBuilder\\Middlewares\\CodeGenerator\\CodeGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abulfaz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

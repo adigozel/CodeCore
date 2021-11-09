@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LpHPD0DtLedM9OsWiCpFEjIMrzEAZrlyxL3HTyDYlaDpPn2R/9ygt/KmRQWey6xWWqrw/Zm4mb+aY7pTL0CdFQ==",
+  "success": true,
+  "projectFilePath": "D:\\NEW_STRUCTURE\\Projects\\MyNewProjects\\CodeCore\\src\\Code\\CDOM2\\CDOM2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abulfaz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

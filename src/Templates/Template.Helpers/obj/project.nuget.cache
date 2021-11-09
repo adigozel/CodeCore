@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SQh9TiW83w2xl0YKPPYGVsxp6ga+iTCDbVUZODCacTDNoXT4GmAXQYD6wrlUfd9bTge3xM2fHgpNGwl/KMuSiA==",
+  "success": true,
+  "projectFilePath": "D:\\NEW_STRUCTURE\\Projects\\MyNewProjects\\CodeCore\\src\\Templates\\Template.Helpers\\Template.Helpers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abulfaz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

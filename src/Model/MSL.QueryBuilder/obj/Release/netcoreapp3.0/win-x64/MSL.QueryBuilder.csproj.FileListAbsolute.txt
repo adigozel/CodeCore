@@ -1,0 +1,11 @@
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\common\MSL.QueryBuilder\bin\Release\netcoreapp3.0\win-x64\MSL.QueryBuilder.deps.json
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\common\MSL.QueryBuilder\bin\Release\netcoreapp3.0\win-x64\MSL.QueryBuilder.dll
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\common\MSL.QueryBuilder\bin\Release\netcoreapp3.0\win-x64\MSL.QueryBuilder.pdb
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\common\MSL.QueryBuilder\bin\Release\netcoreapp3.0\win-x64\MSL.dll
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\common\MSL.QueryBuilder\bin\Release\netcoreapp3.0\win-x64\MSL.pdb
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\common\MSL.QueryBuilder\obj\Release\netcoreapp3.0\win-x64\MSL.QueryBuilder.csprojAssemblyReference.cache
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\common\MSL.QueryBuilder\obj\Release\netcoreapp3.0\win-x64\MSL.QueryBuilder.AssemblyInfoInputs.cache
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\common\MSL.QueryBuilder\obj\Release\netcoreapp3.0\win-x64\MSL.QueryBuilder.AssemblyInfo.cs
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\common\MSL.QueryBuilder\obj\Release\netcoreapp3.0\win-x64\MSL.QueryBuilder.csproj.CopyComplete
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\common\MSL.QueryBuilder\obj\Release\netcoreapp3.0\win-x64\MSL.QueryBuilder.dll
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\common\MSL.QueryBuilder\obj\Release\netcoreapp3.0\win-x64\MSL.QueryBuilder.pdb

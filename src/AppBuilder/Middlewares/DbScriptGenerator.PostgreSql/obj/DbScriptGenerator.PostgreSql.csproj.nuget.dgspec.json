@@ -1,0 +1,330 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\core\\db-script-generator\\DbScriptGenerator.PostgreSql\\DbScriptGenerator.PostgreSql.csproj": {}
+  },
+  "projects": {
+    "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\common\\MSL.QueryBuilder\\MSL.QueryBuilder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\common\\MSL.QueryBuilder\\MSL.QueryBuilder.csproj",
+        "projectName": "MSL.QueryBuilder",
+        "projectPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\common\\MSL.QueryBuilder\\MSL.QueryBuilder.csproj",
+        "packagesPath": "C:\\Users\\Abulfaz\\.nuget\\packages\\",
+        "outputPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\common\\MSL.QueryBuilder\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abulfaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\common\\MSL\\MSL.csproj": {
+                "projectPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\common\\MSL\\MSL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "SqlKata": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\common\\MSL\\MSL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\common\\MSL\\MSL.csproj",
+        "projectName": "MSL",
+        "projectPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\common\\MSL\\MSL.csproj",
+        "packagesPath": "C:\\Users\\Abulfaz\\.nuget\\packages\\",
+        "outputPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\common\\MSL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abulfaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\core\\db-script-generator\\DbScriptGenerator.Infrastructure\\DbScriptGenerator.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\core\\db-script-generator\\DbScriptGenerator.Infrastructure\\DbScriptGenerator.Infrastructure.csproj",
+        "projectName": "DbScriptGenerator.Infrastructure",
+        "projectPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\core\\db-script-generator\\DbScriptGenerator.Infrastructure\\DbScriptGenerator.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Abulfaz\\.nuget\\packages\\",
+        "outputPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\core\\db-script-generator\\DbScriptGenerator.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abulfaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\common\\MSL.QueryBuilder\\MSL.QueryBuilder.csproj": {
+                "projectPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\common\\MSL.QueryBuilder\\MSL.QueryBuilder.csproj"
+              },
+              "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\common\\MSL\\MSL.csproj": {
+                "projectPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\common\\MSL\\MSL.csproj"
+              },
+              "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\core\\db-script-generator\\DbScriptGenerator\\DbScriptGenerator.csproj": {
+                "projectPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\core\\db-script-generator\\DbScriptGenerator\\DbScriptGenerator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "SqlKata": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\core\\db-script-generator\\DbScriptGenerator.PostgreSql\\DbScriptGenerator.PostgreSql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\core\\db-script-generator\\DbScriptGenerator.PostgreSql\\DbScriptGenerator.PostgreSql.csproj",
+        "projectName": "DbScriptGenerator.PostgreSql",
+        "projectPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\core\\db-script-generator\\DbScriptGenerator.PostgreSql\\DbScriptGenerator.PostgreSql.csproj",
+        "packagesPath": "C:\\Users\\Abulfaz\\.nuget\\packages\\",
+        "outputPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\core\\db-script-generator\\DbScriptGenerator.PostgreSql\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abulfaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\core\\db-script-generator\\DbScriptGenerator.Infrastructure\\DbScriptGenerator.Infrastructure.csproj": {
+                "projectPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\core\\db-script-generator\\DbScriptGenerator.Infrastructure\\DbScriptGenerator.Infrastructure.csproj"
+              },
+              "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\core\\db-script-generator\\DbScriptGenerator\\DbScriptGenerator.csproj": {
+                "projectPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\core\\db-script-generator\\DbScriptGenerator\\DbScriptGenerator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\core\\db-script-generator\\DbScriptGenerator\\DbScriptGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\core\\db-script-generator\\DbScriptGenerator\\DbScriptGenerator.csproj",
+        "projectName": "DbScriptGenerator",
+        "projectPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\core\\db-script-generator\\DbScriptGenerator\\DbScriptGenerator.csproj",
+        "packagesPath": "C:\\Users\\Abulfaz\\.nuget\\packages\\",
+        "outputPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\core\\db-script-generator\\DbScriptGenerator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abulfaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\common\\MSL\\MSL.csproj": {
+                "projectPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\common\\MSL\\MSL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\core\db-script-generator\DbScriptGenerator\bin\Debug\netcoreapp3.0\DbScriptGenerator.deps.json
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\core\db-script-generator\DbScriptGenerator\bin\Debug\netcoreapp3.0\DbScriptGenerator.dll
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\core\db-script-generator\DbScriptGenerator\bin\Debug\netcoreapp3.0\DbScriptGenerator.pdb
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\core\db-script-generator\DbScriptGenerator\bin\Debug\netcoreapp3.0\MSL.dll
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\core\db-script-generator\DbScriptGenerator\bin\Debug\netcoreapp3.0\MSL.pdb
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\core\db-script-generator\DbScriptGenerator\obj\Debug\netcoreapp3.0\DbScriptGenerator.csprojAssemblyReference.cache
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\core\db-script-generator\DbScriptGenerator\obj\Debug\netcoreapp3.0\DbScriptGenerator.AssemblyInfoInputs.cache
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\core\db-script-generator\DbScriptGenerator\obj\Debug\netcoreapp3.0\DbScriptGenerator.AssemblyInfo.cs
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\core\db-script-generator\DbScriptGenerator\obj\Debug\netcoreapp3.0\DbScriptGenerator.csproj.CopyComplete
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\core\db-script-generator\DbScriptGenerator\obj\Debug\netcoreapp3.0\DbScriptGenerator.dll
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\core\db-script-generator\DbScriptGenerator\obj\Debug\netcoreapp3.0\DbScriptGenerator.pdb

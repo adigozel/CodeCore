@@ -1,0 +1,8 @@
+D:\NEW_STRUCTURE\Projects\MyNewProjects\CodeCore\src\Code\CDOM2\bin\Debug\netcoreapp3.0\CDOM2.deps.json
+D:\NEW_STRUCTURE\Projects\MyNewProjects\CodeCore\src\Code\CDOM2\bin\Debug\netcoreapp3.0\CDOM2.dll
+D:\NEW_STRUCTURE\Projects\MyNewProjects\CodeCore\src\Code\CDOM2\bin\Debug\netcoreapp3.0\CDOM2.pdb
+D:\NEW_STRUCTURE\Projects\MyNewProjects\CodeCore\src\Code\CDOM2\obj\Debug\netcoreapp3.0\CDOM2.AssemblyInfoInputs.cache
+D:\NEW_STRUCTURE\Projects\MyNewProjects\CodeCore\src\Code\CDOM2\obj\Debug\netcoreapp3.0\CDOM2.AssemblyInfo.cs
+D:\NEW_STRUCTURE\Projects\MyNewProjects\CodeCore\src\Code\CDOM2\obj\Debug\netcoreapp3.0\CDOM2.csproj.CoreCompileInputs.cache
+D:\NEW_STRUCTURE\Projects\MyNewProjects\CodeCore\src\Code\CDOM2\obj\Debug\netcoreapp3.0\CDOM2.dll
+D:\NEW_STRUCTURE\Projects\MyNewProjects\CodeCore\src\Code\CDOM2\obj\Debug\netcoreapp3.0\CDOM2.pdb

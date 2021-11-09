@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hiiyHode7C5VFr9aqyV3fOScYDove+1RQeG+RFIb7fhlJw86LKJXcvbaI14eU0lJvAQ6pp77Uw1v3zq5JosLQg==",
+  "success": true,
+  "projectFilePath": "D:\\NEW_STRUCTURE\\Projects\\MyNewProjects\\CodeCore\\src\\Model\\MSL\\MSL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abulfaz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

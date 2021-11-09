@@ -1,0 +1,8 @@
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\common\MSL\bin\Release\netcoreapp3.0\MSL.deps.json
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\common\MSL\bin\Release\netcoreapp3.0\MSL.dll
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\common\MSL\bin\Release\netcoreapp3.0\MSL.pdb
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\common\MSL\obj\Release\netcoreapp3.0\MSL.csprojAssemblyReference.cache
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\common\MSL\obj\Release\netcoreapp3.0\MSL.AssemblyInfoInputs.cache
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\common\MSL\obj\Release\netcoreapp3.0\MSL.AssemblyInfo.cs
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\common\MSL\obj\Release\netcoreapp3.0\MSL.dll
+D:\NEW_STRUCTURE\Projects\MyProjects\CodeCore\src\common\MSL\obj\Release\netcoreapp3.0\MSL.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vsiGFalD745s/I194Pdca61L9HqRpgjzwF9WW7hWQ3g0DdtSLg46an0EX0mz9xjM6Is0PlPwlRM65IHyPgBo5g==",
+  "success": true,
+  "projectFilePath": "D:\\NEW_STRUCTURE\\Projects\\MyNewProjects\\CodeCore\\src\\Adabters\\LangAdabters\\CSharpLangAdabter\\CSharpLangAdabter\\CSharpLangAdabter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abulfaz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

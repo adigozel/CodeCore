@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Code\CDOM2\CDOM2.csproj" />
+    <ProjectReference Include="..\..\Model\MSL\MSL.csproj" />
+    <ProjectReference Include="..\Template.Helpers\Template.Helpers.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Domain\Enums\" />
+  </ItemGroup>
+
+</Project>

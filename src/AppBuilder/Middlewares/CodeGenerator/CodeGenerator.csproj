@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Db\**" />
+    <EmbeddedResource Remove="Db\**" />
+    <None Remove="Db\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="IDbEngine.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Code\CDOM2\CDOM2.csproj" />
+    <ProjectReference Include="..\..\..\Templates\Template.Core\Template.Core.csproj" />
+    <ProjectReference Include="..\..\Pipline\Pipline.csproj" />
+  </ItemGroup>
+
+</Project>

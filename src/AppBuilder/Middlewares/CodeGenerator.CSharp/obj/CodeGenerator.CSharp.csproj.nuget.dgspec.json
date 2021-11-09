@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\middlewares\\code-generator\\CodeGenerator.CSharp\\CodeGenerator.CSharp.csproj": {}
+  },
+  "projects": {
+    "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\middlewares\\code-generator\\CodeGenerator.CSharp\\CodeGenerator.CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\middlewares\\code-generator\\CodeGenerator.CSharp\\CodeGenerator.CSharp.csproj",
+        "projectName": "CodeGenerator.CSharp",
+        "projectPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\middlewares\\code-generator\\CodeGenerator.CSharp\\CodeGenerator.CSharp.csproj",
+        "packagesPath": "C:\\Users\\Abulfaz\\.nuget\\packages\\",
+        "outputPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\middlewares\\code-generator\\CodeGenerator.CSharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abulfaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\common\\Pipline\\Pipline.csproj": {
+                "projectPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\common\\Pipline\\Pipline.csproj"
+              },
+              "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\middlewares\\code-generator\\CodeGenerator.Infrastructure\\CodeGenerator.Infrastructure.csproj": {
+                "projectPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\middlewares\\code-generator\\CodeGenerator.Infrastructure\\CodeGenerator.Infrastructure.csproj"
+              },
+              "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\middlewares\\code-generator\\CodeGenerator\\CodeGenerator.csproj": {
+                "projectPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\middlewares\\code-generator\\CodeGenerator\\CodeGenerator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\middlewares\\code-generator\\CodeGenerator.Infrastructure\\CodeGenerator.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\middlewares\\code-generator\\CodeGenerator.Infrastructure\\CodeGenerator.Infrastructure.csproj",
+        "projectName": "CodeGenerator.Infrastructure",
+        "projectPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\middlewares\\code-generator\\CodeGenerator.Infrastructure\\CodeGenerator.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Abulfaz\\.nuget\\packages\\",
+        "outputPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\middlewares\\code-generator\\CodeGenerator.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abulfaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\middlewares\\code-generator\\CodeGenerator\\CodeGenerator.csproj": {
+                "projectPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\middlewares\\code-generator\\CodeGenerator\\CodeGenerator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\middlewares\\code-generator\\CodeGenerator\\CodeGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\middlewares\\code-generator\\CodeGenerator\\CodeGenerator.csproj",
+        "projectName": "CodeGenerator",
+        "projectPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\middlewares\\code-generator\\CodeGenerator\\CodeGenerator.csproj",
+        "packagesPath": "C:\\Users\\Abulfaz\\.nuget\\packages\\",
+        "outputPath": "D:\\NEW_STRUCTURE\\Projects\\MyProjects\\CodeCore\\src\\middlewares\\code-generator\\CodeGenerator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abulfaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
