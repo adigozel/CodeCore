@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Application\" />
+    <Folder Include="Infrastructure\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Application\Template.Core\Template.Core.csproj" />
+    <ProjectReference Include="..\..\..\Domain\MSL\MSL.csproj" />
+    <ProjectReference Include="..\Template.Helpers\Template.Helpers.csproj" />
+  </ItemGroup>
+
+</Project>

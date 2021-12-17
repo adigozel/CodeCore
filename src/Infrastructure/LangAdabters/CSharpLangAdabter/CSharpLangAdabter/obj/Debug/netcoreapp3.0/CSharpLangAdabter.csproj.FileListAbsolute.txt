@@ -1,0 +1,13 @@
+D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\LangAdabters\CSharpLangAdabter\CSharpLangAdabter\bin\Debug\netcoreapp3.0\CSharpLangAdabter.deps.json
+D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\LangAdabters\CSharpLangAdabter\CSharpLangAdabter\bin\Debug\netcoreapp3.0\CSharpLangAdabter.dll
+D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\LangAdabters\CSharpLangAdabter\CSharpLangAdabter\bin\Debug\netcoreapp3.0\CSharpLangAdabter.pdb
+D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\LangAdabters\CSharpLangAdabter\CSharpLangAdabter\bin\Debug\netcoreapp3.0\CDOM.dll
+D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\LangAdabters\CSharpLangAdabter\CSharpLangAdabter\bin\Debug\netcoreapp3.0\CDOM.pdb
+D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\LangAdabters\CSharpLangAdabter\CSharpLangAdabter\obj\Debug\netcoreapp3.0\CSharpLangAdabter.csproj.AssemblyReference.cache
+D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\LangAdabters\CSharpLangAdabter\CSharpLangAdabter\obj\Debug\netcoreapp3.0\CSharpLangAdabter.GeneratedMSBuildEditorConfig.editorconfig
+D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\LangAdabters\CSharpLangAdabter\CSharpLangAdabter\obj\Debug\netcoreapp3.0\CSharpLangAdabter.AssemblyInfoInputs.cache
+D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\LangAdabters\CSharpLangAdabter\CSharpLangAdabter\obj\Debug\netcoreapp3.0\CSharpLangAdabter.AssemblyInfo.cs
+D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\LangAdabters\CSharpLangAdabter\CSharpLangAdabter\obj\Debug\netcoreapp3.0\CSharpLangAdabter.csproj.CoreCompileInputs.cache
+D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\LangAdabters\CSharpLangAdabter\CSharpLangAdabter\obj\Debug\netcoreapp3.0\CSharpLangAdabter.csproj.CopyComplete
+D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\LangAdabters\CSharpLangAdabter\CSharpLangAdabter\obj\Debug\netcoreapp3.0\CSharpLangAdabter.dll
+D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\LangAdabters\CSharpLangAdabter\CSharpLangAdabter\obj\Debug\netcoreapp3.0\CSharpLangAdabter.pdb
