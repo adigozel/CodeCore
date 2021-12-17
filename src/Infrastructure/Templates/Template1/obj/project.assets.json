@@ -5,6 +5,9 @@
       "CDOM/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "MSL": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/CDOM.dll": {}
         },
@@ -20,20 +23,6 @@
         },
         "runtime": {
           "bin/placeholder/MSL.dll": {}
-        }
-      },
-      "Template.Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.0",
-        "dependencies": {
-          "CDOM": "1.0.0",
-          "MSL": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Template.Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Template.Core.dll": {}
         }
       },
       "Template.Helpers/1.0.0": {
@@ -63,11 +52,6 @@
       "path": "../../../Domain/MSL/MSL.csproj",
       "msbuildProject": "../../../Domain/MSL/MSL.csproj"
     },
-    "Template.Core/1.0.0": {
-      "type": "project",
-      "path": "../../../Application/Template.Core/Template.Core.csproj",
-      "msbuildProject": "../../../Application/Template.Core/Template.Core.csproj"
-    },
     "Template.Helpers/1.0.0": {
       "type": "project",
       "path": "../Template.Helpers/Template.Helpers.csproj",
@@ -77,7 +61,6 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
       "MSL >= 1.0.0",
-      "Template.Core >= 1.0.0",
       "Template.Helpers >= 1.0.0"
     ]
   },
@@ -113,9 +96,6 @@
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
           "projectReferences": {
-            "D:\\NEW_STRUCTURE\\PROJECTS\\CodeCore\\src\\Application\\Template.Core\\Template.Core.csproj": {
-              "projectPath": "D:\\NEW_STRUCTURE\\PROJECTS\\CodeCore\\src\\Application\\Template.Core\\Template.Core.csproj"
-            },
             "D:\\NEW_STRUCTURE\\PROJECTS\\CodeCore\\src\\Domain\\MSL\\MSL.csproj": {
               "projectPath": "D:\\NEW_STRUCTURE\\PROJECTS\\CodeCore\\src\\Domain\\MSL\\MSL.csproj"
             },

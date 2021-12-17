@@ -31,7 +31,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "targetAlias": "netcoreapp3.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\NEW_STRUCTURE\\PROJECTS\\CodeCore\\src\\Domain\\MSL\\MSL.csproj": {
+                "projectPath": "D:\\NEW_STRUCTURE\\PROJECTS\\CodeCore\\src\\Domain\\MSL\\MSL.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

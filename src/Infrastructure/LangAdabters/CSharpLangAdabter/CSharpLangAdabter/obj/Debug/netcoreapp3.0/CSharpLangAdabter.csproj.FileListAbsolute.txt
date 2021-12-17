@@ -11,3 +11,5 @@ D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\LangAdabters\CSharpLangAda
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\LangAdabters\CSharpLangAdabter\CSharpLangAdabter\obj\Debug\netcoreapp3.0\CSharpLangAdabter.csproj.CopyComplete
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\LangAdabters\CSharpLangAdabter\CSharpLangAdabter\obj\Debug\netcoreapp3.0\CSharpLangAdabter.dll
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\LangAdabters\CSharpLangAdabter\CSharpLangAdabter\obj\Debug\netcoreapp3.0\CSharpLangAdabter.pdb
+D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\LangAdabters\CSharpLangAdabter\CSharpLangAdabter\bin\Debug\netcoreapp3.0\MSL.dll
+D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\LangAdabters\CSharpLangAdabter\CSharpLangAdabter\bin\Debug\netcoreapp3.0\MSL.pdb

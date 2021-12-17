@@ -34,9 +34,7 @@ D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\Templates\Template1\bin\De
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\Templates\Template1\bin\Debug\netcoreapp3.0\Template1.pdb
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\Templates\Template1\bin\Debug\netcoreapp3.0\CDOM.dll
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\Templates\Template1\bin\Debug\netcoreapp3.0\MSL.dll
-D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\Templates\Template1\bin\Debug\netcoreapp3.0\Template.Core.dll
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\Templates\Template1\bin\Debug\netcoreapp3.0\Template.Helpers.dll
-D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\Templates\Template1\bin\Debug\netcoreapp3.0\Template.Core.pdb
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\Templates\Template1\bin\Debug\netcoreapp3.0\MSL.pdb
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\Templates\Template1\bin\Debug\netcoreapp3.0\Template.Helpers.pdb
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Infrastructure\Templates\Template1\bin\Debug\netcoreapp3.0\CDOM.pdb

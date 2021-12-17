@@ -10,14 +10,16 @@
         "dependencies": {
           "CDOM": "1.0.0",
           "MSL": "1.0.0",
-          "Pipline": "1.0.0",
-          "Template.Core": "1.0.0"
+          "Pipline": "1.0.0"
         },
         "runtime": {
           "CodeGenerator.dll": {}
         }
       },
       "CDOM/1.0.0": {
+        "dependencies": {
+          "MSL": "1.0.0"
+        },
         "runtime": {
           "CDOM.dll": {}
         }
@@ -30,15 +32,6 @@
       "Pipline/1.0.0": {
         "runtime": {
           "Pipline.dll": {}
-        }
-      },
-      "Template.Core/1.0.0": {
-        "dependencies": {
-          "CDOM": "1.0.0",
-          "MSL": "1.0.0"
-        },
-        "runtime": {
-          "Template.Core.dll": {}
         }
       }
     }
@@ -60,11 +53,6 @@
       "sha512": ""
     },
     "Pipline/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Template.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -33,8 +33,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Template.Helpers", "Infrast
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Template1", "Infrastructure\Templates\Template1\Template1.csproj", "{7E019BD6-0797-4283-93AB-77DB98693E15}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Template.Core", "Application\Template.Core\Template.Core.csproj", "{48F843AF-F1F7-4036-B47C-3C0AD2C596AB}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,10 +75,6 @@ Global
 		{7E019BD6-0797-4283-93AB-77DB98693E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E019BD6-0797-4283-93AB-77DB98693E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E019BD6-0797-4283-93AB-77DB98693E15}.Release|Any CPU.Build.0 = Release|Any CPU
-		{48F843AF-F1F7-4036-B47C-3C0AD2C596AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{48F843AF-F1F7-4036-B47C-3C0AD2C596AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{48F843AF-F1F7-4036-B47C-3C0AD2C596AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{48F843AF-F1F7-4036-B47C-3C0AD2C596AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -98,7 +92,6 @@ Global
 		{E4B6A36A-810A-4F5F-8E17-E1C6C8FEDDDC} = {D523C4A8-EA26-4FEB-83CF-488281CA872B}
 		{11C11E42-63FD-4A27-B970-3B0878BB3DB4} = {DA616A29-D58B-4E18-96FF-D9D51A164F2A}
 		{7E019BD6-0797-4283-93AB-77DB98693E15} = {DA616A29-D58B-4E18-96FF-D9D51A164F2A}
-		{48F843AF-F1F7-4036-B47C-3C0AD2C596AB} = {91E2A265-6E28-462E-8493-8375F508BA37}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9DF7825D-15DA-43D6-8EB4-1DCE13F1B8F4}

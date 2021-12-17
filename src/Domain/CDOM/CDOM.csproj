@@ -8,4 +8,8 @@
     <Folder Include="Builders\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MSL\MSL.csproj" />
+  </ItemGroup>
+
 </Project>

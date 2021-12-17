@@ -10,7 +10,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Application\Template.Core\Template.Core.csproj" />
     <ProjectReference Include="..\..\..\Domain\MSL\MSL.csproj" />
     <ProjectReference Include="..\Template.Helpers\Template.Helpers.csproj" />
   </ItemGroup>

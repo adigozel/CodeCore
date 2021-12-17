@@ -4,7 +4,7 @@ using System.Text;
 using CDOM;
 using MSL;
 
-namespace Template.Core
+namespace CDOM
 {
     public interface ITemplate
     {

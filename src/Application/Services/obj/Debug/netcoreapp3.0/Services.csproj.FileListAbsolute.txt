@@ -22,10 +22,8 @@ D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Application\Services\bin\Debug\netcoreapp
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Application\Services\bin\Debug\netcoreapp3.0\CDOM.dll
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Application\Services\bin\Debug\netcoreapp3.0\MSL.dll
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Application\Services\bin\Debug\netcoreapp3.0\Pipline.dll
-D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Application\Services\bin\Debug\netcoreapp3.0\Template.Core.dll
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Application\Services\bin\Debug\netcoreapp3.0\MSL.pdb
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Application\Services\bin\Debug\netcoreapp3.0\Pipline.pdb
-D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Application\Services\bin\Debug\netcoreapp3.0\Template.Core.pdb
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Application\Services\bin\Debug\netcoreapp3.0\CDOM.pdb
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Application\Services\obj\Debug\netcoreapp3.0\Services.csproj.AssemblyReference.cache
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Application\Services\obj\Debug\netcoreapp3.0\Services.GeneratedMSBuildEditorConfig.editorconfig

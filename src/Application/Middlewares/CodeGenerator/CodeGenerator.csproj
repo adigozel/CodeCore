@@ -18,7 +18,6 @@
     <ProjectReference Include="..\..\..\Domain\CDOM\CDOM.csproj" />
     <ProjectReference Include="..\..\..\Domain\MSL\MSL.csproj" />
     <ProjectReference Include="..\..\Pipline\Pipline.csproj" />
-    <ProjectReference Include="..\..\Template.Core\Template.Core.csproj" />
   </ItemGroup>
 
 </Project>

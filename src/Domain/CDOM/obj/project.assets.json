@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {}
+    ".NETCoreApp,Version=v3.0": {
+      "MSL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/MSL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MSL.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MSL/1.0.0": {
+      "type": "project",
+      "path": "../MSL/MSL.csproj",
+      "msbuildProject": "../MSL/MSL.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": []
+    ".NETCoreApp,Version=v3.0": [
+      "MSL >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\User\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\NEW_STRUCTURE\\PROJECTS\\CodeCore\\src\\Domain\\MSL\\MSL.csproj": {
+              "projectPath": "D:\\NEW_STRUCTURE\\PROJECTS\\CodeCore\\src\\Domain\\MSL\\MSL.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

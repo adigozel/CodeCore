@@ -7,3 +7,7 @@ D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Domain\CDOM\obj\Debug\netcoreapp3.0\CDOM.
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Domain\CDOM\obj\Debug\netcoreapp3.0\CDOM.csproj.CoreCompileInputs.cache
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Domain\CDOM\obj\Debug\netcoreapp3.0\CDOM.dll
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Domain\CDOM\obj\Debug\netcoreapp3.0\CDOM.pdb
+D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Domain\CDOM\bin\Debug\netcoreapp3.0\MSL.dll
+D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Domain\CDOM\bin\Debug\netcoreapp3.0\MSL.pdb
+D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Domain\CDOM\obj\Debug\netcoreapp3.0\CDOM.csproj.AssemblyReference.cache
+D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Domain\CDOM\obj\Debug\netcoreapp3.0\CDOM.csproj.CopyComplete

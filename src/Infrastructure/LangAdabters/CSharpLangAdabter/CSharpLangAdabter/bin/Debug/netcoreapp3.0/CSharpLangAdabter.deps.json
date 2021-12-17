@@ -15,8 +15,16 @@
         }
       },
       "CDOM/1.0.0": {
+        "dependencies": {
+          "MSL": "1.0.0"
+        },
         "runtime": {
           "CDOM.dll": {}
+        }
+      },
+      "MSL/1.0.0": {
+        "runtime": {
+          "MSL.dll": {}
         }
       }
     }
@@ -28,6 +36,11 @@
       "sha512": ""
     },
     "CDOM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MSL/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

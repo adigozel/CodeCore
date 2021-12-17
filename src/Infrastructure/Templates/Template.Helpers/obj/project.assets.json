@@ -5,6 +5,9 @@
       "CDOM/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "MSL": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/CDOM.dll": {}
         },

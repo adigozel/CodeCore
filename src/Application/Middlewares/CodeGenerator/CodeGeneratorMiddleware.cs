@@ -1,8 +1,8 @@
 ﻿using System;
+using CDOM;
 using MSL;
 using Pipline;
 using Pipline.Middlewares;
-using Template.Core;
 
 namespace CodeGenerator
 {

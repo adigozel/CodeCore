@@ -5,11 +5,24 @@
       "CDOM/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "MSL": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/CDOM.dll": {}
         },
         "runtime": {
           "bin/placeholder/CDOM.dll": {}
+        }
+      },
+      "MSL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/MSL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MSL.dll": {}
         }
       }
     }
@@ -19,6 +32,11 @@
       "type": "project",
       "path": "../../../../Domain/CDOM/CDOM.csproj",
       "msbuildProject": "../../../../Domain/CDOM/CDOM.csproj"
+    },
+    "MSL/1.0.0": {
+      "type": "project",
+      "path": "../../../../Domain/MSL/MSL.csproj",
+      "msbuildProject": "../../../../Domain/MSL/MSL.csproj"
     }
   },
   "projectFileDependencyGroups": {

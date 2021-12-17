@@ -16,6 +16,9 @@
         }
       },
       "CDOM/1.0.0": {
+        "dependencies": {
+          "MSL": "1.0.0"
+        },
         "runtime": {
           "CDOM.dll": {}
         }

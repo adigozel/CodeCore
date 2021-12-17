@@ -5,6 +5,9 @@
       "CDOM/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "MSL": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/CDOM.dll": {}
         },
@@ -31,20 +34,6 @@
         "runtime": {
           "bin/placeholder/Pipline.dll": {}
         }
-      },
-      "Template.Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.0",
-        "dependencies": {
-          "CDOM": "1.0.0",
-          "MSL": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Template.Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Template.Core.dll": {}
-        }
       }
     }
   },
@@ -63,18 +52,13 @@
       "type": "project",
       "path": "../Pipline/Pipline.csproj",
       "msbuildProject": "../Pipline/Pipline.csproj"
-    },
-    "Template.Core/1.0.0": {
-      "type": "project",
-      "path": "../Template.Core/Template.Core.csproj",
-      "msbuildProject": "../Template.Core/Template.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
+      "CDOM >= 1.0.0",
       "MSL >= 1.0.0",
-      "Pipline >= 1.0.0",
-      "Template.Core >= 1.0.0"
+      "Pipline >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -112,8 +96,8 @@
             "D:\\NEW_STRUCTURE\\PROJECTS\\CodeCore\\src\\Application\\Pipline\\Pipline.csproj": {
               "projectPath": "D:\\NEW_STRUCTURE\\PROJECTS\\CodeCore\\src\\Application\\Pipline\\Pipline.csproj"
             },
-            "D:\\NEW_STRUCTURE\\PROJECTS\\CodeCore\\src\\Application\\Template.Core\\Template.Core.csproj": {
-              "projectPath": "D:\\NEW_STRUCTURE\\PROJECTS\\CodeCore\\src\\Application\\Template.Core\\Template.Core.csproj"
+            "D:\\NEW_STRUCTURE\\PROJECTS\\CodeCore\\src\\Domain\\CDOM\\CDOM.csproj": {
+              "projectPath": "D:\\NEW_STRUCTURE\\PROJECTS\\CodeCore\\src\\Domain\\CDOM\\CDOM.csproj"
             },
             "D:\\NEW_STRUCTURE\\PROJECTS\\CodeCore\\src\\Domain\\MSL\\MSL.csproj": {
               "projectPath": "D:\\NEW_STRUCTURE\\PROJECTS\\CodeCore\\src\\Domain\\MSL\\MSL.csproj"
