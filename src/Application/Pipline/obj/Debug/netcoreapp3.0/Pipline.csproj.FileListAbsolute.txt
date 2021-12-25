@@ -23,3 +23,4 @@ D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Application\Pipline\obj\Debug\netcoreapp3
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Application\Pipline\obj\Debug\netcoreapp3.0\Pipline.csproj.CoreCompileInputs.cache
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Application\Pipline\obj\Debug\netcoreapp3.0\Pipline.dll
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Application\Pipline\obj\Debug\netcoreapp3.0\Pipline.pdb
+D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Application\Pipline\obj\Debug\netcoreapp3.0\Pipline.csproj.AssemblyReference.cache

@@ -5,14 +5,18 @@ namespace CDOM
 {
     public class TVariable: Code
     {
+        public TVariable(string name)
+        {
+            this.Name = name;
+        }
+
         public TVariable(
             AccessModifier accessModifier,
             TDataType dataType,
-            string name)
+            string name):this(name)
         {
             this.AccessModifier = accessModifier;
             this.DataType = dataType;
-            this.Name = name;
         }
 
         public TVariable(

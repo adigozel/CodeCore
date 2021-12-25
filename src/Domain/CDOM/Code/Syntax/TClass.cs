@@ -6,13 +6,8 @@ namespace CDOM
 {
     public class TClass: Code
     {
-        public TClass(string name)
+        private TClass()
         {
-            Name = name;
-
-            //By defualt Filename is same to name
-            FileName = name;
-
             Variables = new List<TVariable>();
 
             Constructors = new List<TConstructor>();
@@ -21,10 +16,24 @@ namespace CDOM
 
             Methods = new List<TMethod>();
 
+        }
+        public TClass(string name):this()
+        {
+            Name = name;
+            //By defualt Filename is same to name
+            FileName = name;
             //Attributes = new List<TAttribute>();
         }
+
+        public TClass(string name,string packet,string fileName):this()
+        {
+            Name = name;
+            Packet = packet;
+            FileName = fileName;
+        }
+
         public IList<string> References { get; set; }
-        public string Namespace { get; set; }
+        public string Packet { get; set; }
         public string Name { get; set; }
         public string FileName { get; set; }
         public AccessModifier AccessModifier { get; set; }

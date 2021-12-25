@@ -29,3 +29,4 @@ D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Domain\MSL\obj\Debug\netcoreapp3.0\MSL.As
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Domain\MSL\obj\Debug\netcoreapp3.0\MSL.csproj.CoreCompileInputs.cache
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Domain\MSL\obj\Debug\netcoreapp3.0\MSL.dll
 D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Domain\MSL\obj\Debug\netcoreapp3.0\MSL.pdb
+D:\NEW_STRUCTURE\PROJECTS\CodeCore\src\Domain\MSL\obj\Debug\netcoreapp3.0\MSL.csproj.AssemblyReference.cache
